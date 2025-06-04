@@ -1,0 +1,1 @@
+Java Swing app that connects to a MySQL database using JDBC. It displays city records in a table and allows users to filter the results using a search bar. Additionally, new city entries can be added to the database via a simple form at the bottom of the interface.
